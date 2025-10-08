@@ -2,7 +2,7 @@
   "name": "stringcal",
   "version": "1.0.0",
   "description": "String Calculator implementation using TDD",
-  "main": "index.js",
+  "main": "stringCalculator.js",
   "scripts": {
     "test": "jest",
     "test:watch": "jest --watch",
@@ -18,5 +18,4 @@
   },
   "author": "Rakul Agn",
   "license": "ISC"
-
 }
