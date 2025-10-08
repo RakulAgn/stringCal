@@ -1,0 +1,22 @@
+{
+  "name": "stringcal",
+  "version": "1.0.0",
+  "description": "String Calculator implementation using TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "keywords": [
+    "tdd",
+    "kata",
+    "string-calculator"
+  ],
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "author": "Rakul Agn",
+  "license": "ISC"
+
+}
