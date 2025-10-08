@@ -39,4 +39,5 @@ module.exports = StringCalculator;
  * 1. First Handle the Empty Values Properly
  * 2. Split By Delimiter (Comma,NewLine)
  * 3. Handle Custom Delimiters
+ * 4. Check for Negative Cases
  */
